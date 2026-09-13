@@ -29,6 +29,45 @@ A D3.js force-directed network visualization exploring:
 
 ---
 
+## Web Research Explorer
+
+**Status**: ✅ Built (Development ready)  
+**Location**: `interactive/web-explorer/`
+
+A three-panel React/Next.js dashboard for exploring music, narrative, and canonical knowledge:
+
+- **Left Panel**: Search and multi-filter interface (by query, theme, evidence tier, reality mode)
+- **Center Panel**: Filtered track results with evidence badges and theme tags
+- **Right Panel**: Full track details including narrative, canonical references, and metadata
+
+### Features
+- Full-text search across track titles, descriptions, and themes
+- Filter by 8 themes: Emergence, Silence, Consciousness, Structure, Celestial, Sacrifice, Liminal, Entropy
+- Filter by evidence tier: Built, Vision, Unknown, Contested
+- Filter by reality mode: Alpha (Tides), Beta (Spire), Gamma (Sky)
+- Responsive three-column layout
+- Inline component styling with consistent visual hierarchy
+- Batch filtering with "Clear All Filters" option
+
+### Installation & Development
+```bash
+cd interactive/web-explorer
+npm install
+npm run dev
+# Opens at http://localhost:3000
+```
+
+### Data Structure
+All tracks defined in `app/data.ts` with fields:
+- id, title, description
+- realityModes, themes, canonicalReferences
+- status (Built/Vision/Unknown/Contested)
+- narrative, optional sunoId & date
+
+Easily extensible — add new tracks to `TRACKS` array.
+
+---
+
 ## Planned Interactions
 
 ### Story Game / Narrative Explorer
@@ -39,15 +78,6 @@ An immersive world where users:
 - See how themes interconnect through gameplay
 
 **Tech**: Godot or Unity; narrative scripted from `narrative/canon.md`
-
-### Web Research Explorer
-A React-based interface to:
-- Browse music + narrative + research interconnected
-- Filter by theme, canonical concept, evidence tier
-- Read full canonical entries alongside related tracks
-- Contribute findings and music
-
-**Tech**: React/Next.js + database for user contributions
 
 ### CLI Narrative
 A Node.js command-line tool to:
