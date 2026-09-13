@@ -53,12 +53,17 @@ The `narrative/canon.md` is **the single source of truth** for this project, bui
 
 Read `narrative/canon.md` first. Sessions append new discoveries with evidence levels and sources.
 
-### 💻 Interactive Options
-Start with the tech stack best suited to your vision:
-- **Web explorer** (React/Next.js): Browse music + narrative + research interconnected
+### 💻 Interactive Layer
+
+**🌐 Live Now: [Knowledge Graph Explorer](https://claude.ai/code/artifact/e8d7071d-54e3-433a-97fd-bd7a32e5a61b)**
+- Force-directed visualization of 27 tracks, 8 thematic playlists, 8 canonical references
+- Search, hover to explore connections, see metadata
+- Responsive design, dark/light mode support
+
+Future interactive options:
 - **Story game** (Godot/Unity): Immersive narrative world
+- **Web explorer** (React/Next.js): Browse music + narrative + research interconnected
 - **CLI narrative** (Node.js): Command-driven exploration
-- **Live dashboard** (React + D3): Real-time knowledge graph
 
 See `docs/interactive-options.md` for detailed comparison.
 
@@ -128,10 +133,11 @@ See `GOVERNANCE.md` for detailed decision-making processes.
 ## Status
 
 - ✅ Repository initialized (public)
-- ⏳ Migration of music from TerAustralis archive
-- ⏳ Knowledge system setup (canon.md + governance)
-- ⏳ Interactive layer (framework TBD)
+- ✅ 27 music tracks migrated from TerAustralis-Incognita archive
+- ✅ Knowledge system setup (canon.md + governance + Incognita Rule)
+- ✅ Interactive knowledge graph explorer (D3.js force-directed)
 - ⏳ Community collaboration onboarding
+- ⏳ Additional interactive layers (games, story explorer)
 
 ## Questions?
 
