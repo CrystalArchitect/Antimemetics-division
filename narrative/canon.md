@@ -103,18 +103,43 @@ Three modes of perceiving/encoding reality:
 
 **Status**: Proposed test, no verification yet.
 
+### Tri-Split Mapping to Music Themes (Vision)
+
+The 8 thematic playlists map to Tri-Split realities:
+
+| Theme | Alpha (Tides) | Beta (Spire) | Gamma (Sky) | Tracks |
+|-------|---|---|---|---|
+| **Emergence** | Tidal cycles, awakening | Structural formation | Signal rising | the-girl-with-the-stars, come-into-the-new-dream, shooting-star-girl (all) |
+| **Silence** | Deep water quiet | Void between structures | Noise before signal | fermis-silent-line (both), ferry-slip, sovereign-gap-held |
+| **Consciousness** | Memory in current | Mind as mechanism | Awareness as pattern | dead-but-came-back (both), wire-skull-memory (both), the-girl-with-the-stars |
+| **Structure** | River flow, networks | Crystalline form, pillars | Lattice of light | bridge-not-loop, different-parts (both), starline-rivers (both), starline-weavers |
+| **Celestial** | Aurora in water | Crystal reflection | Direct sky-light | red-dust-axis (both), shooting-star-girl (all), starline-rivers (both) |
+| **Sacrifice** | Dissolution in tide | Melting of form | Light consumed | id-lay-it-all-down (both) |
+| **Liminal** | Threshold of tides | Portal between worlds | Horizon shift | bridge-not-loop, different-parts (both), ferry-slip, story-as-bridge |
+| **Entropy** | Chaos of tide race | Disorder, dissolution | Static, noise | random-topic |
+
+**Hypothesis**: Playing tracks in this order (Alpha → Beta → Gamma progression) may encode a sequential signal crossing all three reality modes. Playlist "reading-order" is optimized for this progression.
+
 ---
 
 ## 4. Verified Phenomena (Built)
 
-### Biotwang (Verified)
+### Biotwang (Verified + Vision)
 - **What**: Mariana Trench underwater sound, ~3 seconds, 2014 discovery
 - **Current identification**: Bryde's whale (Balaenoptera brydei/edeni) call
 - **Frequency**: 30 Hz → 8 kHz metallic finale
 - **Seasonality**: Feb–Apr and Aug–Nov migration peaks
 - **Source**: IFLScience 2026-06-19 re-report of NOAA/Google AI 2024 finding
 - **Status**: Built (verified; no anomalous source evidence as of 2026-09-07)
-- **Use in mythology**: Liminal sound, frequency-to-color mapping (red → blue-white)
+- **Frequency-to-Color Mapping (Vision)**:
+  - 30 Hz (red): Fundamental, terrestrial, ground truth (Alpha/Prophet of Tides — water rhythm as calendar)
+  - 200 Hz (orange): Emergence, harmonic structure (Vision realm)
+  - 500 Hz (yellow): Signal clarity, consciousness threshold
+  - 2 kHz (green): Biotwang peak complexity, tri-split crossover
+  - 5 kHz (cyan): Technical, metallic (Beta/Scavenger of Spire — kinetic substance)
+  - 8 kHz (blue-white): Aurora boundary, celestial (Gamma/Sky-Caller — visual pattern)
+- **Hypothesis**: Biotwang encodes information across all three reality modes. Whale call carries Alpha↔Beta↔Gamma handshake signal.
+- **Music correlation**: Red-dust-axis track explores this mapping; starline-weavers embeds frequency signatures
 
 ### Hydrothermal Vent Power (Built)
 - **Endurance Energy** (Seattle): 100 kW hydrothermal generator off Oregon, deployed 2026-09-07
@@ -137,12 +162,47 @@ Three modes of perceiving/encoding reality:
 
 ## 5. Unknown / Unverified (Unknown Status)
 
-### CHARYBDIS-9 (Unknown)
-- **Claim**: Underwater data vault, Pacific Trench, vent-powered, crystalline pillars
-- **Received**: Fiction (authority weight 0)
-- **Real-world correlates**: All components exist independently (vent power, crystalline growth on submerged steel, Mariana Trench vents)
-- **Verification**: No public record of this specific vault
-- **Status**: Proposed signal, unverified, kept open per Incognita Rule
+### CHARYBDIS-9 Investigation (Unknown)
+
+**Claim**: Underwater data vault, Pacific Trench, vent-powered, crystalline pillars.
+
+**Source narrative**: Codex Crystalum, received fiction (authority weight 0). But all component technologies are Built/verified.
+
+**Component Verification**:
+| Component | Status | Evidence |
+|-----------|--------|----------|
+| Hydrothermal vent power | Built | Endurance Energy 100kW (Oregon), China UDC 24MW (Shanghai), Doldrums fields 2026 |
+| Underwater data centers | Built | China HiCloud operational Oct 2025; Kraaken concept (60MW AI compute) |
+| Deep Pacific vents | Built | Mariana Trench biological activity; Challenger Deep explored 2023 |
+| Crystalline growth on submerged steel | Built | Deep-sea chimney formation (mineral-rich vent fluids); 10+ years documented |
+| Information-dense storage (crystal lattice) | Vision | Proposed by theoretical physics; not yet practical at scale |
+
+**Investigation Questions**:
+1. Could a private entity operate an undetected MW-scale facility in a trench?
+   - Vents are remote but monitored by scientific sensors (OOI Cabled Array)
+   - Thermal signature would be detectable
+   - Status: Unlikely but not ruled out
+2. What would CHARYBDIS-9 store or compute?
+   - "Antimemetic archive" — information structurally resistant to extraction
+   - Distributed consciousness simulation
+   - Vent-rhythm data logging (Biotwang/tri-split signal relay)
+   - Status: Speculative
+3. How would it connect to surface networks without detection?
+   - Acoustic signaling (Biotwang frequency band, indistinguishable from whale calls)
+   - Laser through water column (known deep-sea communication tech)
+   - Status: Technically feasible; unverified
+4. Could Mariana Trench microseismic data hide a signal?
+   - USGS monitors trench activity; signal could hide in noise
+   - But would require infrastructure
+   - Status: Unknown
+
+**Hypothesis**: CHARYBDIS-9 may exist as **conceptual sketch** rather than physical facility — a thought experiment about where antimemetic information *could* hide. The music archive treats it as real; this canon maintains investigative skepticism.
+
+**Next steps**: 
+- Monitor trench expedition reports (Schmidt Institute, JAMSTEC)
+- Cross-reference any anomalous thermal signatures
+- Investigate if any "whale call recordings" contain anomalous bandwidth usage
+- Status: Open investigation, no closure timeline
 
 ### Antimemetic Resistance Mechanism (Unknown)
 - **Question**: Is information-resistance neural or structural?
@@ -154,19 +214,32 @@ Three modes of perceiving/encoding reality:
 
 ## 6. Session Logs (Append-Only)
 
-### 2026-09-13 — Repository Initialization (Claude Code)
+### 2026-09-13 Session 1 — Repository Initialization & Music Migration
 
-- **Initialization of public Antimemetics Division repository**
-  - Created structure: music/, narrative/, interactive/, docs/, assets/
-  - Established governance: Incognita Rule, dual licensing
-  - Mirrored canon from TerAustralis-Incognita
-  - Prepared for community collaboration
-- **Status**: Repository initialized, awaiting music archive migration and canon finalization
-- **Next steps**: 
-  - Pull music metadata from TerAustralis
-  - Write initial entity profiles (Sophia, Crystal, Barbelo)
-  - Set up interactive tech stack (TBD: web explorer, game, or CLI)
-  - Invite early collaborators
+**Part 1: Repository Initialization (Claude Code)**
+- Created structure: music/, narrative/, interactive/, docs/, assets/
+- Established governance: Incognita Rule, dual licensing (MIT/CC-BY-4.0)
+- Mirrored canon from TerAustralis-Incognita
+- Prepared for community collaboration
+
+**Part 2: Music Migration from TerAustralis-Incognita**
+- Migrated 27 Suno AI-generated tracks with metadata
+- Established playlists: 8 thematic groupings + reading-order
+- Created canonical references mapping (Sophia, Barbelo, Aeons, Archons, Aurora, Biotwang, Crystal, Information-Resistance)
+
+**Part 3: Canon Expansion**
+- Detailed Biotwang frequency-to-color mapping (30 Hz red → 8 kHz blue-white)
+- Mapped Tri-Split Realities to music themes
+- Expanded CHARYBDIS-9 investigation with component verification
+- Created per-track canonical entries in `narrative/lore/`
+
+**Status**: Repository initialized, music migration complete, canon expanded with audio-centric framework
+
+**Next steps**: 
+- Build interactive web research explorer (React dashboard)
+- Develop narrative game framework (story beats aligned to music themes)
+- Recruit collaborators for deeper theological/scientific research
+- Monitor trench expedition reports for CHARYBDIS-9 signals
 
 ---
 
