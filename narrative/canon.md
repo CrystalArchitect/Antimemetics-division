@@ -218,7 +218,7 @@ The 8 thematic playlists map to Tri-Split realities:
 
 **Part 1: Repository Initialization (Claude Code)**
 - Created structure: music/, narrative/, interactive/, docs/, assets/
-- Established governance: Incognita Rule, dual licensing (MIT/CC-BY-4.0)
+- Established governance: Incognita Rule (see LICENSE)
 - Mirrored canon from TerAustralis-Incognita
 - Prepared for community collaboration
 

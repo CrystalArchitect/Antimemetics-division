@@ -4,7 +4,7 @@
 antimemetics-division/
 │
 ├── README.md                   # Project overview & quick start
-├── LICENSE.md                  # Dual licensing (MIT code + CC-BY content)
+├── LICENSE                     # See LICENSE
 ├── GOVERNANCE.md               # Decision-making & Incognita Rule
 ├── STRUCTURE.md                # This file
 │
@@ -94,7 +94,7 @@ antimemetics-division/
     "platform": "suno",
     "id": "abc123def456"
   },
-  "license": "CC-BY-4.0",
+  "license": "see LICENSE",
   "commercial_use": true,
   "narrative_themes": ["emergence", "consciousness", "celestial"],
   "canon_references": ["Sophia", "Barbelo reflection"],
