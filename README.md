@@ -29,7 +29,7 @@ antimemetics-division/
 │   └── cli/              # Command-line experiences
 ├── assets/               # Images, icons, visual design
 ├── docs/                 # Architecture, how-to guides
-└── LICENSE.md            # Dual licensing (code + content)
+└── LICENSE               # See LICENSE
 ```
 
 ### 🎵 Music Access
@@ -43,7 +43,7 @@ Each track includes:
 - Artist/source attribution
 - Creation date
 - Related narrative/canon references
-- License (CC0, CC-BY, commercial rights where applicable)
+- License (see LICENSE)
 
 ### 📖 Knowledge System
 The `narrative/canon.md` is **the single source of truth** for this project, built on the Incognita Rule:
@@ -75,7 +75,7 @@ See `docs/interactive-options.md` for detailed comparison.
 1. **Read** `narrative/canon.md` and `GOVERNANCE.md` first
 2. **Verify**: All claims need evidence references
 3. **Source**: Link music to original creators (Suno, artists, URLs)
-4. **License**: Respect content licensing (see `LICENSE.md`)
+4. **License**: Respect content licensing (see `LICENSE`)
 5. **Append**: Update canon with dated session logs, never rewrite canon directly
 
 ### For Musicians
@@ -99,16 +99,7 @@ Contribute to `narrative/research/` with:
 
 ## Licensing
 
-**Dual licensing:**
-
-### Code
-- **MIT License** — for all TypeScript, JavaScript, Python, etc.
-
-### Content
-- **Creative Commons Attribution 4.0** — for narrative, research, design
-- **Rights Reserved (Special)** — for music (see individual track licensing)
-
-See `LICENSE.md` for full terms.
+See `LICENSE`.
 
 ---
 

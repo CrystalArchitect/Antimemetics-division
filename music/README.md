@@ -29,7 +29,7 @@ music/tracks/suno-generated/your-track-name/
     "platform": "suno",
     "id": "song-id-from-suno"
   },
-  "license": "CC-BY-4.0",
+  "license": "see LICENSE",
   "commercial_use": true,
   "narrative_themes": ["emergence", "consciousness"],
   "canon_references": ["entity-name", "concept-name"],
@@ -63,7 +63,7 @@ If your track fits a thematic group:
 **Every track must have clear licensing.** Accepted licenses:
 
 - **CC0** — Public domain
-- **CC-BY-4.0** — Attribution required
+- See `LICENSE`
 - **CC-BY-NC** — Attribution required, non-commercial only
 - **Suno terms** — As per your Suno subscription
 - **Artist-specified** — Include full terms in metadata
