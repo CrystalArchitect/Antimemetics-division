@@ -94,8 +94,8 @@ antimemetics-division/
     "platform": "suno",
     "id": "abc123def456"
   },
-  "license": "see LICENSE",
-  "commercial_use": true,
+  "license": "All rights reserved - see LICENSE",
+  "commercial_use": "Only with the prior written permission of, and a signed written payment agreement with, Crystal E Arena-Turner (TerAustralis Incognita). Contact via https://teraustralis.com.au",
   "narrative_themes": ["emergence", "consciousness", "celestial"],
   "canon_references": ["Sophia", "Barbelo reflection"],
   "duration_seconds": 187,

@@ -29,8 +29,8 @@ music/tracks/suno-generated/your-track-name/
     "platform": "suno",
     "id": "song-id-from-suno"
   },
-  "license": "see LICENSE",
-  "commercial_use": true,
+  "license": "All rights reserved - see LICENSE",
+  "commercial_use": "Only with the prior written permission of, and a signed written payment agreement with, Crystal E Arena-Turner (TerAustralis Incognita). Contact via https://teraustralis.com.au",
   "narrative_themes": ["emergence", "consciousness"],
   "canon_references": ["entity-name", "concept-name"],
   "duration_seconds": 187,
@@ -60,13 +60,7 @@ If your track fits a thematic group:
 
 ## Licensing
 
-**Every track must have clear licensing.** Accepted licenses:
-
-- **CC0** — Public domain
-- See `LICENSE`
-- **CC-BY-NC** — Attribution required, non-commercial only
-- **Suno terms** — As per your Suno subscription
-- **Artist-specified** — Include full terms in metadata
+Tracks are covered by the root `LICENSE`.
 
 **Cannot include:**
 - Copyrighted music without explicit permission
